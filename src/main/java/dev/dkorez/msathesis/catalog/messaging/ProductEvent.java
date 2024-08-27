@@ -12,4 +12,5 @@ public class ProductEvent {
     private ProductEventType type;
     private Long productId;
     private ProductDto product;
+    private Long timestamp;
 }
